@@ -1,4 +1,4 @@
-This code I've made because I was missing REBOL support in Pygments' colorizer.
+I've made this code because I was missing REBOL support in Pygments' colorizer.
 It's older then REBOL3 so it would require some small updates.
 
 I must say that I'm REBOList, not Pythonist and this was my first and so far last Python code.
